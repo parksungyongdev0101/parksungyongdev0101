@@ -1,10 +1,11 @@
 ### 박성용의 깃허브
-
-<a href="https://cs.yonsei.ac.kr/" target="_blank"><img src="https://img.shields.io/badge/Yonsei-2E2EFE?style=flat&logo=Yoast&logoColor=FFFFFF"/></a>
-<a href="https://www.w3.org/" target="_blank"><img src="https://img.shields.io/badge/HTML5-?style=flat&logo=HTML5&logoColor=E34F26"/></a>
-<a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-?style=flat&logo=C++&logoColor=00599C"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-?style=flat&logo=Python&logoColor=3776AB"/></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-?style=flat&logo=PyTorch&logoColor=EE4C2C"/></a>
+<p>
+  <a href="https://cs.yonsei.ac.kr/" target="_blank"><img src="https://img.shields.io/badge/Yonsei-2E2EFE?style=flat&logo=Yoast&logoColor=FFFFFF"/></a>
+  <a href="https://www.w3.org/" target="_blank"><img src="https://img.shields.io/badge/HTML5-?style=flat&logo=HTML5&logoColor=E34F26"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-?style=flat&logo=C++&logoColor=00599C"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-?style=flat&logo=Python&logoColor=3776AB"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-?style=flat&logo=PyTorch&logoColor=EE4C2C"/></a>
+</p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksungyongdev0101&show_icons=true&theme=swift)
