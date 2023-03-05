@@ -9,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parksungyongdev0101&show_icons=true&theme=bear)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/parksungyong0101)
+parksungyong0101](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/parksungyong0101)
 <!--
 **parksungyongdev0101/parksungyongdev0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
