@@ -1,8 +1,6 @@
 ### 박성용의 깃허브
 
 <a href="https://cs.yonsei.ac.kr/" target="_blank"><img src="https://img.shields.io/badge/Yonsei-2E2EFE?style=flat&logo=Yoast&logoColor=FFFFFF"/></a>
-
-### I'm studying...
 <a href="https://www.w3.org/" target="_blank"><img src="https://img.shields.io/badge/HTML5-?style=flat&logo=HTML5&logoColor=E34F26"/></a>
 <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-?style=flat&logo=C++&logoColor=00599C"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-?style=flat&logo=Python&logoColor=3776AB"/></a>
