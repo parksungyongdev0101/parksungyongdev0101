@@ -1,4 +1,4 @@
-### Hi there 👋
+### 72 105 !
 
 <a href="https://cs.yonsei.ac.kr/" target="_blank"><img src="https://img.shields.io/badge/Yonsei-2E2EFE?style=flat&logo=appveyor&logoColor=FFFFFF"/></a>
 
