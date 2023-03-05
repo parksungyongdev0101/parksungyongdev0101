@@ -1,6 +1,6 @@
 ### 72 105 !
 
-<a href="https://cs.yonsei.ac.kr/" target="_blank"><img src="https://img.shields.io/badge/Yonsei-2E2EFE?style=flat&logo=[appveyor](https://www.yonsei.ac.kr/_res/sc/img/intro/img_symbol8.png)&logoColor=FFFFFF"/></a>
+<a href="https://cs.yonsei.ac.kr/" target="_blank"><img src="https://img.shields.io/badge/Yonsei-2E2EFE?style=flat&logo=https://www.yonsei.ac.kr/_res/sc/img/intro/img_symbol8.png&logoColor=FFFFFF"/></a>
 
 <!--
 **parksungyongdev0101/parksungyongdev0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
