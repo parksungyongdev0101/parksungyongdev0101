@@ -1,3 +1,4 @@
+<span style="font-family: 'AppleSDGothicNeo', 'Noto Sans KR', sans-serif;">
 # 🇰🇷🧑🏻‍💻 PARKSUNGYONG'S GITHUB 🤖👾
 <p>
   <a href="https://www.w3.org/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF"/></a>
@@ -27,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</span>
