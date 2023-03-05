@@ -1,4 +1,4 @@
-# 🇰🇷🧑🏻‍💻 PARKSUNGYONG'S GITHUB 🤖👾
+# 🇰🇷🧑🏻‍💻 Park Sungyong's Github 🤖👾
 <p>
   <a href="https://www.w3.org/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF"/></a>
   <a href="https://www.w3.org/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=FFFFFF"/></a>
